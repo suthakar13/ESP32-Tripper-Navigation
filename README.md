@@ -48,5 +48,7 @@ OLED updates instantly.
 - Turn-by-turn memory
 
 ---
+![OLED](https://github.com/user-attachments/assets/fe9ceee1-5ca0-4184-9534-7bdda50041b4)
+
 
 Made with ❤️ using ESP32
